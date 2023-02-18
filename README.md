@@ -1,2 +1,3 @@
 # Programming-with-C
-C Program Practice
+1. Pattern 1
+2. Pattern 
